@@ -7,8 +7,8 @@ Python program based on computer vision to bluring detected known faces.
   ```terminal
   pip install opencv-python,face_recognition
   
-or
-$ python -m pip install opencv-python,face_recognition 
+or ```terminal 
+  python -m pip install opencv-python,face_recognition 
 
 - 
 # Demo
