@@ -27,7 +27,7 @@ print("waiting a few seconds...")
 video = cv2.VideoCapture(0) #open the cam, you can change the 0 to 1 if you have an external webcam
 
 #video = cv2.VideoCapture("./Test/your_test_GIF_or_Video")
-#output = cv2.VideoWriter('output.mp4', cv2.VideoWriter_fourcc(*'XVID')
+#output = cv2.VideoWriter('./Results/output.mp4', cv2.VideoWriter_fourcc(*'XVID')
 #, int(video.get(cv2.CAP_PROP_FPS))
 #, (int(video.get(cv2.CAP_PROP_FRAME_WIDTH))
 #, int(video.get(cv2.CAP_PROP_FRAME_HEIGHT)))
