@@ -1,6 +1,11 @@
 # BlurringKnownFaces
 Python program based on computer vision to bluring detected known faces.
 
+# Usage
+- Install opencv and face_recognition:
+```pip install opencv-python,face_recognition```
+or ```python -m pip install opencv-python,face_recognition```
+- 
 # Demo
 
 https://github.com/hatimzh/BlurringKnownFaces/assets/96501113/38c7fd7d-f2e8-4459-b439-240a71b42df1
