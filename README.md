@@ -15,15 +15,15 @@ Python program based on computer vision to bluring detected known faces.
       > **Note:** More photos get best detection.
     - There are two methodes to detect and blurring faces:
       - Detection from cam : <br>
-        You can just run <a href="./face_detection.py">this program</a> using this command:
+        You can just run <a href="./blob/main/face_detection.py">this program</a> using this command:
         ```terminal
         python face_detection.py
         ```
-        > **Note:** If you want to run an externel cam you should modify <a href="./face_detection.py#L27">this line</a>.<br>
-      _Example : <a href="./Example">Example of an external Cam.</a>_
+        > **Note:** If you want to run an externel cam you should modify <a href="./blob/main/face_detection.py#L27">this line</a>.<br>
+      _Example : <a href="./tree/main/Example">Example of an external Cam.</a>_
       - Detection from given video :<br>
         You can do this by adding a video or a GIF file in <a href="./Test">this folder</a>.
-        >**Note:** You should modify <a href="./face_detection.py">this script </a> by commenting <a href="./face_detection.py#L27">this line</a> and uncomment these lines : <a href="./face_detection.py#L29">29</a> to <a href="./face_detection.py#L29">34</a>, <a href="./face_detection.py#L80">80</a> and <a href="./face_detection.py#L90">90</a>.<br>
+        >**Note:** You should modify <a href="./blob/main/face_detection.py">this script </a> by commenting <a href="./blob/main/face_detection.py#L27">this line</a> and uncomment these lines : <a href="./blob/main/face_detection.py#L29">29</a> to <a href="./blob/main/face_detection.py#L29">34</a>, <a href="./blob/main/face_detection.py#L80">80</a> and <a href="./blob/main/face_detection.py#L90">90</a>.<br>
       _You can see the example in the Demo_
         
 # Demo
