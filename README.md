@@ -15,7 +15,7 @@ Python program based on computer vision to bluring detected known faces.
       > **Note:** More photos get best detection.
     - There are two methodes to detect and blurring faces:
       - Detection from cam : <br>
-        You can just run <a href="./blob/main/face_detection.py">this program</a> using this command:
+        You can just run <a href="./face_detection.py">this program</a> using this command:
         ```terminal
         python face_detection.py
         ```
