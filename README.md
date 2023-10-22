@@ -11,7 +11,7 @@ Python program based on computer vision to bluring detected known faces.
     python -m pip install opencv-python face_recognition
     ```
 - Running the program:
-    - You can add a folder to (<a href="./known_faces">This folder</a>) with the name of the person who you want to detect his face to blurring it, this folder must contains at least two photos to detect the faces better.
+    - You can add a folder to (<a href="https://github.com/hatimzh/BlurringKnownFaces/known_faces">This folder</a>) with the name of the person who you want to detect his face to blurring it, this folder must contains at least two photos to detect the faces better.
       > **Note:** More photos get best detection.
     - There are two methodes to detect and blurring faces:
       - Detection from cam : <br>
@@ -19,11 +19,11 @@ Python program based on computer vision to bluring detected known faces.
         ```terminal
         python face_detection.py
         ```
-        > **Note:** If you want to run an externel cam you should modify <a href="./blob/main/face_detection.py#L27">this line</a>.<br>
-      _Example : <a href="./tree/main/Example">Example of an external Cam.</a>_
+        > **Note:** If you want to run an externel cam you should modify <a href="https://github.com/hatimzh/BlurringKnownFaces/blob/main/face_detection.py#L27">this line</a>.<br>
+      _Example : <a href="https://github.com/hatimzh/BlurringKnownFaces/tree/main/Example">Example of an external Cam.</a>_
       - Detection from given video :<br>
-        You can do this by adding a video or a GIF file in <a href="./Test">this folder</a>.
-        >**Note:** You should modify <a href="./blob/main/face_detection.py">this script </a> by commenting <a href="./blob/main/face_detection.py#L27">this line</a> and uncomment these lines : <a href="./blob/main/face_detection.py#L29">29</a> to <a href="./blob/main/face_detection.py#L29">34</a>, <a href="./blob/main/face_detection.py#L80">80</a> and <a href="./blob/main/face_detection.py#L90">90</a>.<br>
+        You can do this by adding a video or a GIF file in <a href="https://github.com/hatimzh/BlurringKnownFaces/Test">this folder</a>.
+        >**Note:** You should modify <a href="https://github.com/hatimzh/BlurringKnownFaces/blob/main/face_detection.py">this script </a> by commenting <a href="https://github.com/hatimzh/BlurringKnownFaces/blob/main/face_detection.py#L27">this line</a> and uncomment these lines : <a href="https://github.com/hatimzh/BlurringKnownFaces/blob/main/face_detection.py#L29">29</a> to <a href="https://github.com/hatimzh/BlurringKnownFaces/blob/main/face_detection.py#L29">34</a>, <a href="https://github.com/hatimzh/BlurringKnownFaces/blob/main/face_detection.py#L80">80</a> and <a href="https://github.com/hatimzh/BlurringKnownFaces/blob/main/face_detection.py#L90">90</a>.<br>
       _You can see the example in the Demo_
         
 # Demo
